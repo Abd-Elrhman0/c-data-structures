@@ -3,7 +3,7 @@
 # C Data Structures
 
 ...
-## A collection of fundamental data structures implemented in C
+## A collection of fundamental data structures implemented in C from scratch.
 
 
 ### Contents

@@ -9,11 +9,11 @@
 ### Contents
 
 1. Linked List
-  * some linked list functions (add, getNode, print, free)
+    * some linked list functions (add, getNode, print, free)
 2. Binary Search Tree application
-  * create, print, free
+    * create, print, free
 3. structure practice
-  * dog structure
+    * dog structure
 
 
 ...
